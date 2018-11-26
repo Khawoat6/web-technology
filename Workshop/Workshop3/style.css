@@ -1,0 +1,36 @@
+body {
+	background: #ffffff;
+	margin: 5em;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+}
+
+p.name {
+	margin-top: 3px;
+	margin-bottom: 15px;
+}
+
+.profile-img {
+	padding: 7px;
+	background: #fff;
+	border: 1px solid #ccc;
+}
+
+.profile-round {
+	border-radius: 5px;
+}
+
+.button {
+	padding: 4px 10px;
+	border: 1px solid #ccc;
+	background: #fff;
+	text-decoration: none;
+	color: #000;
+}
+
+.button:hover {
+	border: 1px solid #aaa;
+}
